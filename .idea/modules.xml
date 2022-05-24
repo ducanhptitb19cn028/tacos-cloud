@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/taco-cloud-api/taco-cloud-api.iml" filepath="$PROJECT_DIR$/taco-cloud-api/taco-cloud-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taco-cloud-client/taco-cloud-client.iml" filepath="$PROJECT_DIR$/taco-cloud-client/taco-cloud-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/tacos-cloud.iml" filepath="$PROJECT_DIR$/.idea/tacos-cloud.iml" />
     </modules>
   </component>

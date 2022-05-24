@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>bts</artifactId>
+    <artifactId>taco-cloud-client</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>bts</name>
-    <description>bts</description>
+    <name>taco-cloud-client</name>
+
     <properties>
         <java.version>11</java.version>
     </properties>

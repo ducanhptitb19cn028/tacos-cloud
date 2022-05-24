@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>web.api</groupId>
-    <artifactId>taco-web-api</artifactId>
+    <artifactId>taco-cloud-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>taco-web-api</name>
-    <description>taco-web-api</description>
+    <name>taco-cloud-api</name>
+    <description>taco-cloud-api</description>
     <properties>
         <java.version>11</java.version>
     </properties>

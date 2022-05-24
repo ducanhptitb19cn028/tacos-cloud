@@ -1,10 +1,9 @@
-package web.api.tacowebapi.controller;
+package web.api;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import web.api.tacowebapi.model.Taco;
-import web.api.tacowebapi.repository.TacoRepository;
+import repository.TacoRepository;
 
 import java.util.Optional;
 

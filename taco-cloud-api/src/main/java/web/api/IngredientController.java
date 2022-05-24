@@ -1,14 +1,12 @@
-package web.api.tacowebapi.controller;
+package web.api;
 
 import java.util.Optional;
-import org.springframework.beans.factory.annotation.Autowired;
+
 import org.springframework.dao.EmptyResultDataAccessException;
-import org.springframework.hateoas.server.EntityLinks;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import web.api.tacowebapi.model.Ingredient;
-import web.api.tacowebapi.model.Order;
-import web.api.tacowebapi.repository.IngredientRepository;
+import repository.IngredientRepository;
 
 @RestController
 @RequestMapping(path = "/ingredients", produces = "application/json")

@@ -1,4 +1,4 @@
-package web.api.tacowebapi.repository;
+package repository;
 
 import org.springframework.data.repository.CrudRepository;
 import web.api.tacowebapi.model.Taco;

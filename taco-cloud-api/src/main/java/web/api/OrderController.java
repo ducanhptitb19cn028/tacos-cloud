@@ -1,10 +1,10 @@
-package web.api.tacowebapi.controller;
+package web.api;
 
 import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import web.api.tacowebapi.model.Order;
-import web.api.tacowebapi.repository.OrderRepository;
+import repository.OrderRepository;
 
 @RestController
 @RequestMapping(path="/orders",
